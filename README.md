@@ -1,8 +1,8 @@
 # Puppeteer experiments
 
-[Puppeteer notes]
+###### [Notes]
 
-[Puppeteer notes]: https://alexherbo2.github.io/wiki/puppeteer/notes/
+[Notes]: https://alexherbo2.github.io/wiki/puppeteer/notes/
 
 ## Instructions
 
