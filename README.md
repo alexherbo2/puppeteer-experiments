@@ -4,6 +4,10 @@
 
 [Notes]: https://alexherbo2.github.io/wiki/puppeteer/notes/
 
+Scrape [Chrome APIs].
+
+[Chrome APIs]: https://developer.chrome.com/extensions/api_index
+
 ## Instructions
 
 Instructions to reproduce:
